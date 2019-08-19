@@ -2,4 +2,4 @@
 This is the privacy policy for the "КотБот" app.
 <br>
 # Support 
-If you have any issues, or questions you can contact me here: Leon.Vladimirov@gmail.com
+If you have any issues, bugs, feature suggestions or questions you can reach me here: Leon.Vladimirov@gmail.com
